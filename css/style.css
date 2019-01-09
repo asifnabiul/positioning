@@ -1,0 +1,68 @@
+.container{
+
+	background-color: #ffd9b3;
+
+	min-height: 500px;
+
+	position: relative;
+
+}
+
+.a,.b,.c,.d,.e{
+
+	height: 150px;
+
+	width: 150px;
+
+	position: absolute;
+
+}
+
+.a{
+
+	background-color: blue;
+
+}
+
+.b{
+
+	background-color: red;
+
+	bottom: 0;
+
+}
+
+.c{
+
+	background-color: white;
+
+	left:0;
+
+	right:0;
+
+	margin: 175px auto; 
+
+
+
+
+}
+
+.d{
+
+	background-color: yellow;
+
+	right: 0;
+
+	bottom:0;
+
+}
+
+.e{
+
+	
+	background-color: green;
+
+	right: 0;
+ 
+}
+
